@@ -39,6 +39,7 @@ class _NotificationScreenState extends State<NotificationScreen> {
             topLeft: Radius.circular(35),
             topRight: Radius.circular(35),
           ),
+          
           boxShadow: [
             BoxShadow(
                 color: Colors.grey.withOpacity(0.5),

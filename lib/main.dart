@@ -12,6 +12,7 @@ import 'package:roadside_assistance/presentation/screens/drivers/TechnicianScree
 
 // void main() => runApp(MyApp());
 void main() async {
+
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: DefaultFirebaseOptions.currentPlatform,

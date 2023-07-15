@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208525091892",
+    "project_id": "roadside-assistance-7671a",
+    "storage_bucket": "roadside-assistance-7671a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208525091892:android:df27882be72ac50c6bd661",
+        "android_client_info": {
+          "package_name": "com.example.roadside_assistance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208525091892-gl8l0elchls7dvaqrilo1p9lvoq1gsl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1XO8YSW6vYsorLTuQ8a3SZWeVbZ-mkIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208525091892-gl8l0elchls7dvaqrilo1p9lvoq1gsl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
